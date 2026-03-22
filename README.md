@@ -13,8 +13,8 @@ Funktion:
 - trigger alarm if the temperature falls by too many degrees Celcius
 
 # Picture of the Wiring 
-![Wiring](images/IMG_5009.jpg)
-![Wiring](images/IMG_5011.jpg)
+![Wiring](Bilder/IMG_5009.jpg)
+![Wiring](Bilder/IMG_5011.jpg)
 
 # Picture of the circuit diagram
-![Circuit](images/Schaltung.png)
+![Circuit](Bilder/Schaltung.png)
