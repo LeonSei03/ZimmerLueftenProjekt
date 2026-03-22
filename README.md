@@ -10,4 +10,11 @@ Projekt with:
 
 Funktion:
 - save reference-temperature by pressing the button 
-- Alarm if the temperature falls by too many degrees Celcius
+- trigger alarm if the temperature falls by too many degrees Celcius
+
+# Picture of the Wiring 
+![Wiring](images/IMG_5009.jpg)
+![Wiring](images/IMG_5011.jpg)
+
+# Picture of the circuit diagram
+![Circuit](images/Schaltung.png)
